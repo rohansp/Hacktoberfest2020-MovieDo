@@ -24,6 +24,45 @@
     "name": "The Matrix",
     "desc": "Neo (Keanu Reeves) believes that Morpheus (Laurence Fishburne), an elusive figure considered to be the most dangerous man alive, can answer his question -- What is the Matrix? Neo is contacted by Trinity (Carrie-Anne Moss), a beautiful stranger who leads him into an underworld where he meets Morpheus. They fight a brutal battle for their lives against a cadre of viciously intelligent secret agents. It is a truth that could cost Neo something more precious than his life.",
     "rate": "⭐⭐⭐⭐⭐"
+  },
+  {
+	"name": "Harry Potter and the Sorcerer's Stone (2001)"
+	"desc": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world."
+	"rate": "***"
+  },
+  {
+	"name": "Harry Potter and the Chamber of Secrets (2002)"
+	"desc": "An ancient prophecy seems to be coming true when a mysterious presence begins stalking the corridors of a school of magic and leaving its victims paralyzed."
+	"rate": "****"
+  },
+  {
+	"name": "Harry Potter and the Prisoner of Azkaban (2004)"
+	"desc": "Harry Potter, Ron and Hermione return to Hogwarts School of Witchcraft and Wizardry for their third year of study, where they delve into the mystery surrounding an escaped prisoner(Sirius Black) who poses a dangerous threat to the young wizard."
+	"rate": "*****"
+  },
+  {
+	"name": "Harry Potter and the Goblet of Fire (2005)"
+	"desc": "Harry Potter finds himself competing in a hazardous tournament, the Triwizard Tournament, between rival schools of magic, but he is distracted by recurring nightmares."
+	"rate": "****"
+  },
+  {
+	"name": "Harry Potter and the Order of the Phoenix (2007)"
+	"desc": "With their warning about Lord Voldemort's (Ralph Fiennes') return scoffed at, Harry (Daniel Radcliffe) and Dumbledore (Sir Michael Gambon) are targeted by the Wizard 	authorities as an authoritarian bureaucrat slowly seizes power at Hogwarts."
+	"rate": "****"
+  },
+  {
+	"name": "Harry Potter and the Half-Blood Prince (2009)"
+	"desc": "As Harry Potter (Daniel Radcliffe) begins his sixth year at Hogwarts, he discovers an old book marked as "the property of the Half-Blood Prince" and begins to learn more about Lord Voldemort's (Ralph Fiennes') dark past."
+	"rate": "*****"
+  },
+  {
+	"name": "Harry Potter and the Deathly Hallows: Part 1 (2010)"
+	"desc": "As Harry (Daniel Radcliffe), Ron (Rupert Grint), and Hermione (Emma Watson) race against time and evil to destroy the Horcruxes, they uncover the existence of the three most powerful objects in the wizarding world: the Deathly Hallows."
+	"rate": "*****"
+  },
+  {
+	"name": "Harry Potter and the Deathly Hallows: Part 2 (2011)"
+	"desc": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts."
+	"rate": "*****"
   }
-
 ]
